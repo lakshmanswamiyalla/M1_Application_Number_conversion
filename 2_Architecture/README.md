@@ -1,2 +1,1 @@
-Flowchart
-Structural.png
+
