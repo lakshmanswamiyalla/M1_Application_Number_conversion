@@ -13,6 +13,4 @@ The general representation of number systems are:
 * Binary Number – Base 2 – N2
 * Octal Number – Base 8 – N8
 * Hexadecimal Number – Base 16 – N16
-## Aim of the project
-To perform number conversion in digital electronics.
-## 
+
