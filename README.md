@@ -15,4 +15,18 @@ The general representation of number systems are:
 * Hexadecimal Number – Base 16 – N16
 ## Aim of the project
 To perform number conversion in digital electronics.
-## 
+## Overview
+* The project deals with the interfacing of NUMBER CONVERSIONS.
+* Firstly student need to enter the conversion name.
+* It contains list of conversions to do by students.
+* Then select first conversion to do.
+* Now select second conversion to do.
+* If first complete it goes to second other wise not getting second conversion.
+* After completion it shows conversions are completed.
+## Requirements
+* It requires conversion name
+* list of the conversion we implement.
+## Features
+* It gives basic idea about the number conversions.
+* Student capable to understand why this number conversions to use.
+
