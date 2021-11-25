@@ -1,0 +1,10 @@
+SRC =main.c \
+decimal.c \
+binary.c \
+octal.c \
+hexdecimal.c \
+
+INC = Header.h
+
+target : $(SRC) $(INC)
+	gcc $(SRC) -o a.out
